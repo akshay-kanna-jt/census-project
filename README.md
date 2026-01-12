@@ -9,7 +9,7 @@ Built using **React (Vite)**, **Material UI**, **Chart.js**, **Node.js**, **Expr
 ## 🚀 Features
 
 ### ✔ Add Census Entry
-Users can submit:
+Users can submit: 
 - Name  
 - Gender 
 - Date of Birth  
@@ -176,3 +176,4 @@ http://localhost:5173/
 
 
 👉 **Demo Video:** https://drive.google.com/file/d/1GDv9hyScoWLFl7_L-97hyWnwsbe_jReD/view?usp=drive_link
+
